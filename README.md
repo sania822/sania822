@@ -46,6 +46,8 @@ Performed exploratory data analysis on real-world datasets to extract meaningful
 ## 🌐 Connect With Me
 - **GitHub:** https://github.com/sania822  
 - **Kaggle:** https://www.kaggle.com/sania09
+- **Linkdin** www.linkedin.com/in/sania08
+
 
 ---
 
